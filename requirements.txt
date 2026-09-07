@@ -2,5 +2,3 @@ streamlit
 pandas
 numpy
 plotly
-msoffcrypto
-openpyxl
